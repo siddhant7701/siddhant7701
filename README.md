@@ -1,6 +1,4 @@
 # Siddhant Srivastava
-![Siddhant Srivastava](https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.png)
-
 ## 👋 About Me
 - Pursuing B.Tech in C.S.E. from I.E.R.T. Prayagraj (4th Year)
 
@@ -25,10 +23,11 @@
 - Contest Rating: 1,528
 
 ## 🌟 Achievements
-- [Feb LeetCoding Challenge](#)
-- [50 Days Badge 2022](#)
-- [Jan LeetCoding Challenge](#)
-- [50 Days Badge 2022](#)
+- [50 Days Badge 2022](https://leetcode.com/static/images/badges/2022/lg/2022-annual-50.png)
+- [Jan LeetCoding Challenge](https://leetcode.com/static/images/badges/dcc-2023-1.png)
+- [Feb LeetCoding Challenge](https://leetcode.com/static/images/badges/dcc-2023-2.png)
+- [Programming Skills-1 Badge](https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.png)
+- [SQL-1 Badge](https://assets.leetcode.com/static_assets/others/SQLI.gif)
 
 ## 📊 Community Stats
 - Views: 1.9K
