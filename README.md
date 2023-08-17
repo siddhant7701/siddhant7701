@@ -14,7 +14,6 @@
 - [LinkedIn](www.linkedin.com/in/siddhant-srivastava-389212211)
 
 ## 🏆 LeetCode Profile
-![LeetCode Profile](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)
 - [sksid4268](https://leetcode.com/sksid4268/)
 - Rank: 236,654
 - Global Ranking: 146,071/429,002
