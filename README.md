@@ -23,6 +23,7 @@
 
 ## 🌟 Achievements
 - [50 Days Badge 2022](https://leetcode.com/static/images/badges/2022/lg/2022-annual-50.png)
+- [50 Days Badge 2023](https://leetcode.com/static/images/badges/2023/lg/2023-annual-50.png)
 - [Jan LeetCoding Challenge](https://leetcode.com/static/images/badges/dcc-2023-1.png)
 - [Feb LeetCoding Challenge](https://leetcode.com/static/images/badges/dcc-2023-2.png)
 - [Programming Skills-1 Badge](https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.png)
