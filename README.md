@@ -1,12 +1,4 @@
 # Siddhant Srivastava
-## 👋 About Me
-- B.Tech in C.S.E. from I.E.R.T. Prayagraj 
-
-
-
-## 🎓 Education
-- B.Tech, Computer Science - Institute of Engineering and Rural Technology (2020 - 2024)
-
 ## 🚀 Skills
 - JavaScript · Chrome Extensions · HTML5 · CSS
 - Microsoft PowerPoint · Presentations · Database Administration
